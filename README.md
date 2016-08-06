@@ -10,10 +10,11 @@ For running the associated jar, simply navigate to the directory where the jar i
 ```
 java -jar VFL.jar
 ```
-Post running the jar, the usr is presented with HTML Report named **RedundancyReport.html** which presents the user with the redundant file names, their specific locations (paths) and sizes (in bytes, kb, mb, etc).
+Post running the jar, the user is presented with HTML Report named **RedundancyReport.html** which presents the user with the redundant file names, their specific locations (paths) and sizes (in bytes, kb, mb, etc).
 
 ### Sample VFL console screenshot
 ![VFL Console Screenshot] (https://github.com/sigmakappa/VFL/blob/master/VFL_console.jpg)
+
 ### Updates on future releases:
 * Currenly supports only Windows and Video files (hence the V in VFL as currently only video files are supported)
 * Implement smarter algorithm to check redundency better and bring out more suggestions on redundancy. 
