@@ -4,7 +4,7 @@ File Utilities Tool written in Java
 This utility (currently) presents the user with a list of redundant video files (in MP4, AVI, DAT, FLV ,MKV , MOV, WMV formats) present in a number of desired directories.
 
 ### Usage
-Required Java 1.8.0 or above.
+Requires Java 1.8.0 or above.
 
 For running the associated jar, simply navigate to the directory where the jar is placed and run:
 ```
