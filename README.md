@@ -1,10 +1,11 @@
 File Utilities Tool written in Java 
 ======================================================
 
-Currently this tool presents the user with a list of redundent video files (in MP4, AVI, DAT, FLV ,MKV , MOV,	WMV) present in a number of desired directories.
+This utility presents the user with a list of redundent video files (in MP4, AVI, DAT, FLV ,MKV , MOV, WMV formats) present in a number of desired directories.
 
 #### Usage:
-.. Required Java 1.8.0 or above.
+Required Java 1.8.0 or above.
+
 For running the associated jar, simply navigate to the directory where the jar is placed and run:
 ```
 java -jar VFL.jar
